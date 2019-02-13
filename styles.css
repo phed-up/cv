@@ -1,0 +1,51 @@
+
+body {
+  margin: 0;
+  text-align: center;
+
+}
+
+
+h1 {
+margin: 0;
+font-size: 50px;
+font-family: 'Clicker Script', cursive;
+
+}
+
+p {
+  font-family: Comfortaa;
+}
+
+
+.top {
+
+  background-color: #ffe6eb;
+  padding-top: 100px;
+}
+
+/* .middle {
+  width: 200px;
+  height: 200px;
+  background-color: #cbf1f5;
+}
+
+.bottom {
+
+  width: 200px;
+  height: 200px;
+  background-color: #a6e3e9;
+} */
+
+.cloud1 {
+
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 400px;
+  top: 300px;
+}
